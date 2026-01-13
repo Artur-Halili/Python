@@ -1,7 +1,7 @@
 uv install(numpy)
 
 import numpy as np
-my_list = [] NOT FINISHED YET TEACHER
+my_list = []
 
 average = sum(my_list) / len(my_list)
 
