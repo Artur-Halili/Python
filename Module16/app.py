@@ -20,7 +20,7 @@ st.write(f"Your message: {message}")
 choice = st.radio ("Pick one", ["Choice 1", "Choice 2","Choice 3"])
 st.write(f"You chose: {choice}")
 if st.button("Success"):
-    st.success("Operation was Successful")
+    st.success("Operation was Successful!")
 
 if __name__ == "__main__":
         main()
